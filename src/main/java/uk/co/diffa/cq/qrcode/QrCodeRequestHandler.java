@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletResponse;
  * @scr.service interface="javax.servlet.Servlet"
  *
  * @scr.property name="service.description" value="URL QRCode Redirect Request Handler"
- * @scr.property name="service.vendor" value="T-Systems"
+ * @scr.property name="service.vendor" value="diffa.co.uk"
  *
  * Register this servlet for the default resource type and two selectors:
  * @scr.property name="sling.servlet.resourceTypes"
